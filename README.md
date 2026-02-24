@@ -136,6 +136,7 @@
   - [2026-01-11](./PotA/Sessions/2026/2026-01-11.md) - That serum tastes like what?
   - [2026-01-25](./PotA/Sessions/2026/2026-01-25.md) - Pssst
   - [2026-02-12](./PotA/Sessions/2026/2026-02-12.md) - F@ck you! And you too.
+  - [2026-02-24](./PotA/Sessions/2026/2026-02-24.md) - Why did you kill him
 
 ### PotA - Notes
 
