@@ -317,7 +317,7 @@
 - If **Grimjaw** is killed or has been flee, any remaining cultists abandon the keep over the next day or two
   - Most of the disperse to bandit and smuggler camps
   - The initiates of the cult retreat to the **Temple of the Crushing Wave**
-- **Grimjaw** carries a key to the iron grate in K13
+- **Grimjaw** carries a key to the iron gate in K13
 
 ## K17 - Servants' Quarters
 
@@ -361,7 +361,7 @@
 ### K19 - Treasure
 
 - Small wooden chest by her bad
-  - 80sp, 30gp, silk pouch (4 excellent jaspers - 70 gp each), a scroll of hast and a scroll of wall of water
+  - 80sp, 30gp, silk pouch (4 excellent jaspers - 70 gp each), a scroll of haste and a scroll of wall of water
 - Books (~12) 25gp each
   - Nautical topics, charts, excerpts, ships' logs
 

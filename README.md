@@ -137,6 +137,7 @@
   - [2026-01-25](./PotA/Sessions/2026/2026-01-25.md) - Pssst
   - [2026-02-12](./PotA/Sessions/2026/2026-02-12.md) - F@ck you! And you too.
   - [2026-02-24](./PotA/Sessions/2026/2026-02-24.md) - Why did you kill him
+  - [2026-03-08](./PotA/Sessions/2026/2026-03-08.md) - ZzzzzzZzzzzz
 
 ### PotA - Notes
 
