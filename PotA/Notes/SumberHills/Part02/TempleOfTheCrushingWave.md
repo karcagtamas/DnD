@@ -222,21 +222,158 @@
 
 ## C14 - Hag Lair
 
+> Finom fa bútorok, zöld és arany faliszőnyegek, valamint medvebőr szőnyeg díszíti ezt a gazdagon berendezett szobát – de a bútorok megkarcolódtak, a faliszőnyegek erősen szakadtak, a szőnyegen pedig méteres lyukak tátonganak. Északnyugaton egy rongyos zöld függöny választ el egy nagy alkóvot. A terem déli részében két nagy halom nedves prém hever. Rothadt hínárhoz hasonló nedves bűz lebeg a levegőben, és apró rákok szaladgálnak a szobában.
+
+- *Sea hag* named **Thuluna Maah** and 2 *ogres* (serves as her bodyguards)
+- If the hour is late, they are sleeping
+- **Thuluna**
+  - She is the second-in-command of the temple answering to **Gar Shatterkeel**
+  - Sly, calculating creature (quick to offer bargains and make deails -> to make her advantage later)
+  - She wields great influence over the cult's nonhuman member
+    - She wants to unseat **Shatterkeel** and purge the cult of *fathomers* and one-eyed shivers, but she is patient
+  - She tries to convience **Shatterkeel** to attack the other cults (maybe the other cults kill **Shatterkeel**)
+  - She targets the best-looking character (she hates beauty)
+  - If the fight goes wrong, she pleads for mercy and offers treasure them. She leads them to *C21*
+
+### C14 - Treasure
+
+- 4 chairs (80gp each) - but 30 pounds each
+- Wooden chest in the nothwest alcove
+  - 190gp, 8pp, *potion of hill giant strength*, *potion of resistance*
+- Near the hag's bedding: +1 longsword
+  - Made of dragon bone and with a dragon leather grip
+  - The sword grows warm and the rubies glow slighly when the sword is withing 120feet of a dragon
+    - The sword is warm and the rubies glowing because there is a *dragon turtle* on *C21*
+
 ## C15 - Dragon Bridge
+
+> A csatorna mindkét oldalán lépcsők vezetnek fel egy kőhídra, amely a csatornán tizenöt lábbal a vízszint felett ível át. A híd oldalait sárkányok képével díszítették, akik kincseskamrák felett őrködnek. Egyetlen fáklya világítja meg a hidat.
+> A csatorna nyugati oldalán járatok vezetnek nyugatra és északra. A csatorna keleti oldalán egy-egy járda keletre vezet.
+
+- 1 aquatic *troll* from *C12* lurks in the canal underneath the bridge: watching for intruders
+- Challanges anyone moving through
+- If the characters are in a boat, the *troll* begins the battle by trying to capsize the vessel (DC 20 Strength check)
 
 ## C16 - Thunderhammer Brewery
 
+> A nagy szoba közepén két sorban lezárt rézkádak állnak. A kádak régiek és teljesen beborítja őket a patina. A falakról a festék nagy része régen levált, de néhány falfestmény maradt fenn, amelyek a földeken dolgozó és komlótőkéket gondozó törpéket ábrázolják. Három új, hátizsák méretű üvegtartály hordozóhevederekkel szépen egymásra rakva áll a kádsor végén. Az ajtók nyugatra, keletre és délre nyílnak.
+
+- Most of the vats are empty, but 3 currently hold *water weirds* drained from the three empty *weird tanks*
+- The vats holding the *water weirds* cold and clammy
+- A weird can only attack, if someones oipen the hatch
+- Any enemy tries to alerts the monsters in *C17*
+
 ## C17 - Morbeoth's Workshop
+
+- The northern door is secured from inside by a bronze hasp-and-pin
+
+> A kamra egyes részei omladozó falazathalmokba temetve hevernek, de annyi ép maradt, hogy arkán műhelyként szolgálhat. A szoba közepén álló faasztal mentén egy bonyolult szerkezet darabjai hevernek, amely egy nagy üvegtartályt, réz szerelvényeket és csöveket, valamint egy bőr hordágyat tartalmaz, míg a déli falnál alkímiai reagensekkel teli polcok állnak. Meglehetősen hideg van itt, és a padlóra hűvös köd tapad. Az északi oldalon található nagy, szomszédos szoba úgy néz ki, mint valakinek a hálószobája.
+> Ajtók délre és keletre vezetnek, egy másik ajtó pedig keletre a hálószobából.
+
+- A *one-eyed shiver* named **Morbeoth** makes his home in these rooms
+- He commands teh western portion of the temple, and defends it against the **Howling Hatred** cultists
+- He carries for battle: *potion of gaseous form* and a *potion of healing*
+- 6 *Crushing Wave reavers* serve as his personal guard
+- He expermineted with devices that rely on elemental power
+  - The dedvice on the table is a disassembled weird tank
+  - With proficiency in Arcana can determine that items powered by the energy of elemental water are assembled here
+- **Morbeoth**
+  - Proud and prickly
+  - He feels his mastery of arcane power gives right to force his will on anyone
+  - He resents that mere druid was chosen to serve as the **Prophet of Water** and ugly monster liek *sea hag* serves as the cult's second-in-command
+  - He likely direct the characters to *C14* to kill the hag, then he can eliminate the players and claim the achivements
+  - Carries the key to the gate in *C20*
+
+### C17 - Treasure
+
+- Small iron chest in **Morbeoth** badchamber
+  - 260sp, 22pp
+  - Several letters reporting on events in **Red Larch**, including the arrival of the characters and their actions in town
+    - Handwriting is unusual mix of block letters and script
+    - See **Spy's Letter**
+
+### C17 - Development
+
+- Sounds battle alerts bugbears in *C18*
 
 ## C18 - West Guard Post
 
+- The monsters in this room watchin the arrow slit
+- They prepare for ambush to surprise the characters
+
+> A kamra mennyezete húsz láb magas, a szoba nyugati felét pedig egy három méter magas galéria foglalja el. A padló közepén omladozó téglahalmok jelzik azokat a helyeket, ahol egykor kemencék álltak. A padlón piszkos, bolhákkal teli szalmából készült raklapok hevernek, egy vízhordó és élelmiszeres hordók mellett. Egy nyíllyuk néz ki a folyosóra kelet felé, ajtók pedig keletre és északra nyílnak.
+
+- The roome once serves as the hop silo nearby the **Thunderhammer Brewery**
+- 5 *bugbears* guards (against incursion from west)
+- One *bugbear* always watched at the arrow slit
+- Any fighting here alerts **Morbeoth** and his guards in *C17*
+- Reinforcements: if the *bugbears* are defeated, they will be replaced by trolls from *C12*
+
 ## C19 - Cavern Lakeshore
+
+> Ez a természetes barlang kiszélesedik és lejtősödik egy kavicsos tópart felé. Számos korhadt, fából készült csónak van a parton felhúzva. Keleten egy nagy földalatti tó nyúlik a sötétségbe. Nyugaton járatok vezetnek nyugatra és északra.
+
+- 3 old boats wait here by the shore (far newer than the dungeon)
+  - One is good enough to repair from the other boats
+- Any sustained activity alert the *giant octopus* in *C3*
 
 ## C20 - Gated Passage
 
+> Egy durván megépített vaskapu, amely úgy néz ki, mintha egy új toldaléka lenne ennek az ősi kazamatának, elzárja az utat. Egy nehéz lánc és egy lakat biztosítja a kaput.
+
+- Water cultists install this gate a couple of months ago
+- **Morbeoth** hold the key (*C17*)
+- The lock can be picked DC 16 Dexterity and thieves tools
+  - Or DC 25 Strength to force open
+- West Tunnel
+  - The passage contined to *A14* in **Temple of Howling Hatred**
+
 ## C21 - Starry Lake
 
+> Apálák csillogása játszik e földalatti tó vizén. A barlang mennyezete természetes formájú és több száz apró kék fényponttal pettyezett, a csillagos éjszakát utánozva. A tavon átfolyó csatorna észak és dél felé folytatódik. Keleten a tó végén egy széles rakpart vezet egy nagy, vörös oszlopokkal ellátott csarnokba.
+
+- The ceiling is 50 feet above the water level
+- Avg. 40ft deep, shallowing to 10ft at the east end
+- Houses a *dragon turtle* with 220HP named **Bronzefume**
+  - Young and impressionable
+  - Stays out of sight in the western end of the lake, waiting for the water prophet to decide the time is right to seize the control of the river
+  - If the boat is half of the lake, surfaces to investigate
+  - Answers whenn the gong in *C22* is struck
+  - She attacks when she is sure that the characters intruders
+  - Prefer to attack boats rather than people
+
+### C21 - Treasure
+
+- Large wooden chest is open the bottom in the western end of the lake
+  - 700gp, 440ep, 6 chrysoprase gemstones (40gp each), 4 large onyxes (70gp each)
+
 ## C22 - Market Hall
+
+> Hat magas, repedezett és csorba vörös márványoszlop magasodik e földalatti tótól keletre fekvő terem fölé. Élelmiszer és kereskedelmi áruk hevernek a falaknak halmozva: értékes szőrmék és irhák kötegei, lisztes- és darászsákok, sózott hússal és sörrel teli hordók, olajoshordók és egyebek. A szoba közepén három hosszú asztal padokkal áll, a tó partján lévő kőrakáson pedig egy nagy bronz gong áll. Egyetlen fáklya ég a szoba egyik középső oszlopán lévő gyertyatartóban.
+
+- Hoarding supplies and trade goods here.
+  - The most missing **Dessarin River** cargo can be found here
+- First time visit
+  - 1 *fathomer*, 3 *cultists* are here, sorting the fresh cargo here
+- The fights in *C13* and *C23* can alert the creatures here
+- If the attackers seem dangerous, they struck the gong
+  - **Bronzefume** reaches the surface in 3 rounds and joins the fight
+- Random encounters: each time the characters pass through the area
+
+| d20  | Encounter                                           |
+| ---- | --------------------------------------------------- |
+| 1    | 1d4+4 *lizardfolk* (*C13*)                          |
+| 2-3  | 1d4+1 *Crushing Wave reavers* (*C7*)                |
+| 4    | 1d3+1 *bugbears* (*C18*)                            |
+| 5    | 1 *Crushing Wave priest* and 1d4 *cultists* (*C27*) |
+| 6    | **Thuluna Maah** (*C14*)                            |
+| 7-20 | None                                                |
+
+### C22 - Treasure
+
+- 3 tons of trade goods (500gp)
+  - At least 3 trips in a keelboat or 10 trips with the small skiffs (like in *C1*)
+- Characters can collect 500 pounds of the most valuable goods and haul away 250gp worth in two small boats
 
 ## C23 - Galley
 
