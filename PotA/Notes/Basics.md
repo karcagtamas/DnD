@@ -164,7 +164,7 @@
 
 ### Cult of the Crushing Wave
 
-- Awesome power of water from the ruginf tides and deadly maelstorms of the sea to the raging torrents of rivers in flood and the rockcrushing power of ice and galciers
+- Awesome power of water from the raging tides and deadly maelstorms of the sea to the raging torrents of rivers in flood and the rockcrushing power of ice and galciers
 - They see the living creatures as the trapped water what will reaturn to the seas or sky in new form one day
 - The seas eager to reclaim the part of themselves what are in the living creaters (blood, body)
 - The cultists drown the non-believers to return the parts to the sea
@@ -175,7 +175,7 @@
 #### The sign of the Crushing Wave
 
 - They use simple hand sign to identify others
-- Crossing the forefingers nad overlapping the thumbs to create and X shape linked by a line at the bottom
+- Crossing the forefingers and overlapping the thumbs to create and X shape linked by a line at the bottom
 - Stands for water's eternal surge nad retreat, cycle of unending change
 
 #### Crushing Wave - Tactics and Philosophy
