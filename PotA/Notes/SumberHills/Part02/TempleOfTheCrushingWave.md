@@ -377,14 +377,107 @@
 
 ## C23 - Galley
 
+> Két vaskályha, élelemmel teli hordók, mosdókagyló mellett egymásra halmozott vízforralók és edények, valamint egy halom tűzifa a szoba falánál arra utalnak, hogy valaki sokat főz itt. Öt egyszerű dupla emeletes ágy található a szoba keleti végében. Két ajtó nyílik délre, és két nyíllyuk néz ki egy csatorna fekete vizére északon és keleten.
+
+- Serves as the kitchen for the temple
+- The cultists prepare their meals here, and dine in *C22*
+- When the characters arrive:
+  - 2 *Crushing Wave reavers* and 4 *cultists* are here
+  - If the hour is late: most of them asleep (but one or two *cultists* are here)
+- Extra bunks are for the cultists who work in *C22*
+- Any loud fighting alerts *C22*
+
 ## C24 - Bridge of Heroes
+
+> Egy kőhíd ível át a csatorna felett, itt tizenöt lábbal a vízszint felett. A csatorna déli oldalán lépcsők vezetnek fel a hídra, amely egy kőből készült dupla ajtóhoz vezet. Az ajtókra egy nagy szimbólum van festve.
+> A hídtól nyugatra és keletre, azzal egy szinten, hatalmas, ásító törpe arcok formájában faragott átereszek engedik a vízsugarakat a csatornába. A kis vízesések nagy zajt csapnak a híd közelében. Egy folyosó vezet dél felé a rakparttól, a csatorna déli oldalán.
+
+- The mark on the doors is the water cult's symbol
+- The door leading to *C25* (unlocked but protected by *glyph of warding*)
+  - Any creature who open either of the doors, without the hangsign triggers the trap
+  - DC 14 Intelligence (Investigation) check to detect the trap
+  - 5d8 thunder damage on a failed DC 14 Dexterity saving throw or half on success
+  - Any explosion makes enough noise to alert all of the creatures in the temple
+- Culverts
+  - It's possible to enter to *C25* through the culverts
+  - Reaching it DC 20 Strength (Athletics) to cilmb 15 feet up the wet, smooth masonary from the canal level
+  - The culverts are 4ft high and the stream is only 1ft deep
+  - A character who climbs into the culvert mouth, can easily crouch and go forward into *C25* (surprise)
 
 ## C25 - Temple of Elemental Water
 
+> Egy hatvan láb széles vizesárok osztja ezt a szentélyt északi és déli részre. Az északi felében két nagy kőoszlop szegélyezi az egyszerű kőtömb alakú oltárt. Néhány érme fekszik az oltáron. Az oltár felett és mögött egy hatalmas, uszadékfából készült gerendákból készült szimbólum magasodik, X alakban rögzítve a falon. Egyetlen kőajtó vezet nyugat felé a szoba ezen részéből.
+> A szoba déli felében két három láb széles csatorna húzódik a szentély keleti és nyugati fala mentén, amelyek alacsony átereszeken keresztül dél felé ömlenek ki. Itt további két oszlop áll, és egy alacsony kőhíd vezet át az elválasztó csatornán az oltárhoz és a szoba északi részéhez.
+
+- The moat is 10ft deep
+- The water level is almost even with the floor
+- In the middle of the easter wall, a submerged culvert leads to *C26*
+- The shrine was once dedicated to dwarven gods, but the cultists rededicated it to **Olhydra**
+- 5 *lizardfolk* warriros of the *Blackmaw* tribe stand guard in the southern part of the shrine
+- If the temple is the first elemental temple
+  - **Gar Shatterkeel** is here
+    - Standing next to the alter in the northern part of the room
+- Otherwise he has retreated down the **Fane of the Eye**
+  - In that case a *hezrou* demon is on guard with the *lizardfolks*
+- **Gar Shatterkeel**
+  - The prophet is sulled and suspicious in the conversation
+  - He believes that the msot reliable followers are likely to fail him through weakness or treachery
+  - He knows the characters aren't members and they are not here to join
+  - Whoy are you? What do you want? Why shouldn't I drown you?
+  - He hears out those who claim to bring news or gifts
+  - If drawn into an explanation of the cult, he reveals: "Only through desctruction can the errors of the world be mended. The coming flood shall wash away all who are unworthy."
+
+### C25 - Treasure
+
+- **Gar** carries **Drown**
+- Cultists bring treasure here and heap it on the alter
+  - Only 25sp, 12gp and 6 small agates (10gp each)
+  - **Gar** regularly gathers the offerings and secures them in *C26*
+
 ## C26 - Vault
+
+- Characters must swim through the submerged tunnel leading from *C25*
+
+> Egy tiszta, mély forrás tölti ki a természetes barlang nagy részét. Egy száraz párkány alkotja a kamra déli oldalának egy részét.
+
+- The pool is almost 80ft deep abd fed by and aquifer through porous rock at the bottom
+- Its the source of the **Dark Stream**
+
+### C26 - Treasure
+
+- Several rusty iron coffers lie on the dry ledge at the south edge of the chamber
+  - Two contain 730gp, 900sp, 1 silver ewer, a scroll of *tidal wave*, a scroll of *vitriolic sphere*
+  - Two contain waterproofed leather stachels: nearly 50 heavy old tomes writtern in *Dethek* (Dwarvish script)
+    - These are the missing books of **Bruldenthar**, the sage from **Mirabar**
 
 ## C27 - Priests' Quarters
 
+> Ez a jól berendezett szoba nyolc szépen megépített priccset, egy kerek asztalt több székkel, zöld és kék faliszőnyegeket, valamint egy izzó szénnel teli rézüstöt tartalmaz. Egy nyílvesszőnyílás dél felé egy sötét csatornára néz.
+
+- Personal quarter of the cult priests: 2 *Crushing Wave priests* and 4 *cultists*
+  - They take care of the *Temple of Elemental Water*
+- **Gar** sleeps here for a few hours when he retires
+  - Otherwise he is in *C25* to discern the will of **Olhydra** or instructing other in the lore and philosophy of the cult
+  - The priests and cultists know the answers to the *mezzoloth's* riddles in *C28* but resist to tell it to strangers
+
 ## C28 - Caravan Stairs
 
+> A terem falait kőfrízek díszítik. Törpe kereskedőket ábrázolnak, akik nehéz csomagokkal megrakott öszvérekből vagy óriásgyíkokból álló sorokat vezetnek hatalmas barlangokon keresztül. A terem közepén egy széles lépcső vezet le a sötétségbe. A lépcső tetején egy görnyedt, rovarszerű lény áll, kétágú vasvillával a kezében.
+
+- The stairway leads down to *F6* of the **Fane of the Eye**
+- The water cultists summoned a *mezzoloth* and ordered it to destroy any intruders seekign to use the stairs
+- To determine wether someone is an intruder the creature aks 3 questions:
+  - *What do you serve?*
+    - Answers: *Olhydra*, *the Princess of Evil Water*, *water*
+  - *What are you?*
+    - Answer: *I am nothing*
+  - *What lies below?*
+    - Answers: *the Fane of the Eye*, *the Elder Elemental Eye*
+- If the party can't answer any of the question, the *mezzoloth* attacks. Fight to the death
+
 ## Conclusion
+
+- If **Shaterkeel** is defeated or retreats to the deeper levels and the characters defeat **Thuluna Maah** and **Morbeoth**, the **Crushing Wave** cult falls apart
+  - The surviving cultists abandon this level (some monster might remain)
+  - Few cultists retreat to the **Fane of the Eye** or the **Plunging Torrents**, others flee the temple
+- If **Thuluna Maah** or **Morbeoth** remains, the cult will reorganize their defenses
