@@ -253,6 +253,7 @@
   - [2026-02-15](./Brassaris/Sessions/2026/2026-02-15.md)
   - [2026-03-01](./Brassaris/Sessions/2026/2026-03-01.md)
   - [2026-03-15](./Brassaris/Sessions/2026/2026-03-15.md)
+  - [2026-03-29](./Brassaris/Sessions/2026/2026-03-29.md)
 
 ### Brassaris - Items
 
