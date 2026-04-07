@@ -8,7 +8,7 @@
 
 - And underground stream connects the temple to the surface
 - It flows through tunnels and caverns for about 2 miles before passing under **Rivergard Keep** and emptying into the **Dessarin River**
-- The stream is sluggish, and it isn't hard to row or pole a boat agains the current
+- The stream is sluggish, and it isn't hard to row or pole a boat against the current
 
 ### The Dark Stream - Random Encounters
 
@@ -52,12 +52,12 @@
   - Eyon's mount ad *hunter shark* swims in the lake nearby
   - They attack any strange boats unless the characters convience them to parley
 - **Eyon**
-  - If the characters suceed in opening negotiations
-    - He questiosn the mwith a good deal of suspicion
+  - If the characters succeed in opening negotiations
+    - He questions the with a good deal of suspicion
   - She is a hard-bitten, callous mercenary who expects only the wors from people
   - If she decides the characters are trying to string her along, she orders here reavers to attack
-  - Prefers to fight from the water while mounted on her shark, using her lance agains enenmies in a boat or at the water's edge
-  - She fights on foor if the character don't cooperate by moving close to the water
+  - Prefers to fight from the water while mounted on her shark, using her lance against enenmies in a boat or at the water's edge
+  - She fights on foot if the character don't cooperate by moving close to the water
 - The reavers know that most enenmies are at series disadvantage in the water
   - They attempt to use the *Shoving a Creature* special attack to push a character into the water (water is 15ft deep neart the quay)
 
