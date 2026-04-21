@@ -142,7 +142,7 @@ If they accompany the characters openly, **Wiggan** and **Bertram** cower at the
 > Hangja mély, zengő és furcsán akcentusos. Azt mondja: „Harcosként a szellemek között pihenőhelyemről visszatérve azt találom, hogy a sírom elégett, csontjaim pedig meggyalázottak. Tudom, hogy a meggyalázók nincsenek közöttetek, de kik vagytok ti, és miért vagytok itt?”
 
 - The chieftain **Javor** was allowed to come here from the afterlife due to the overt and callous desecration of hist tomb (*revenant*)
-- **Javor** does not attakc, he is willing to briefly listen to the characters, whom he know to be innocent of crimes against him
+- **Javor** does not attack, he is willing to briefly listen to the characters, whom he know to be innocent of crimes against him
   - He does not know the nae of the desecraters, but his Gengefil Tracker train meas knows where to find **Wiggan** and **Bertram**
     - If asked the right question: tells the desecraters are just outside the tomb
 - Meanwhile **Wiggan** uses a scroll of *conjure elemental*
@@ -160,6 +160,91 @@ If they accompany the characters openly, **Wiggan** and **Bertram** cower at the
 
 ## Uthgardt Vengenance
 
+> Egy tucat barbár veszi körül Javort, félkört alkotva a talicska előtt. Ketten lóháton ülnek. Érkezésedet szinte tudomást sem véve rólad, áhítattal tekintenek a visszatért törzsfőnökre. Az egyik lovas, akinek a homlokát jávorszarvas szarvak tetoválása díszíti, leszáll a lováról.
+> „A lányom látomása igaz volt. Ez itt az ősi. Közülünk való!” – mondja.
+> Letérdel Javor elé, társai pedig követik a példáját.
+> „Azért jöttünk, hogy bosszút álljunk érted, ősi” – mondja. Javor komoran bólint. „Vérre jöttél. A szentségtörő ott lakik.”
+A talicska alatti völgyben lévő Nettlebee-ranchra mutat. Aztán abba az irányba kezd futni.
+
+- **Uthgardt** of the fierce Elk tribe
+  - The barbarian band is led by a female *berserker* **Fennor**
+    - Wears a chain shirt (AC 14), wields a greatsword (2d6+3 slashing), has multiattack
+  - Others: 10 *tribal warriors* and a male *berserker* named **Padraich**
+    - **Padraich** wields a maul (2d6+3 bludgeoning)
+  - Two *berserkers* ride *warhorses*
+- Anyone who native here knows:
+  - Uthgardt of the Elk tribe are dangerous raiders
+  - Most local thinks they are savage bandits
+- **Uthgardt** roleplaying
+  - The barbarians follows **Javor**
+  - They thinks the player emerged the burrows because of **Javor** let them
+  - He and the tribe barbarians are willing to talk during moving
+  - **Javor** plans to find the desecraters and slay them
+    - He knows that two **Nettlebee**, but he needs to see them to identify (no concerns for the other **Nettlebees**)
+  - **Fennor** plans to aid the returned chief and loot the ranch
+    - `No Nettlebees to survive` - characters can confirm with questioning
+    - The characters can bargain for the lifes of the innocents
+      - Not for free: Help to capture the desecraters, find and bring the stolen treasures back to the burrow, seal the burrow
+        - The **Nettlebees** must give some supply for the road and some livestock (they do if its their survival)
+    - She adds: "All the ones with this liar's mark!": `she makes the fire symbol with her hands`
+      - The knowledge is coming from her daughter vision and she is not willing to say any other things
+
 ## Final Confrontations
 
+- Options:
+  - Nothing:
+    - The barbarians loot and destroy the ranch and kill everybody
+    - If the characters attack the Uthgardt on the road: fight also with the `revenant`
+    - If the characters attack the Uthgardt on the ranch: **Javor** focuses on **Wiggam** and **Bertram**
+    - If the tribe suffer huge losses, they retreat and steal sheeps and ponies
+  - **Nettlebees** in hiding
+    - When the barbarians reach the ranch, **Javor** bursts into the cellar (the people saw the bandits on the wall, and retreated ther)
+    - The chief points to **Wiggam** and **Bertram** (guilty ones)
+    - **Wiggan** tries bargain with the players for his and **Bertram**'s life
+      - Promising everything, secrets to them if they are helping
+      - **Javor** can wait to the tale, but not forever
+  - **Wiggan**'s gambit
+    - If the party defends the **Nettlebees** and **Wiggan** survives
+      - Wounded foes make tempting targets, especially if they know about the guilt
+      - **Wiggan** is bravier if **Bertram** is there
+      - **Watson** might try to stop the open battle
+    - If defeated but left alive, **Wiggan** can tell the truth
+      - The players promise to keep him alive
+
 ## Conclusion
+
+- If **Wiggan** or **Bertram** survives, they flee to the **Temple of Black Earth** to report (the characters can meet there again)
+- If **Wiggan** and **Bertram** are slayed, **Javor** reminds the characters to their promise (in they made one) in exchange for the **Nettlebees** lifes
+- If **Javor** is slained
+  - He reappears after 24 hours (into the temple too)
+  - The Uthgardt will raids teh **Nettlebees** (probably drive them away from the ranch)
+- **Wiggan** and **Bertram** kno the location of the **Temple of Black Earth**
+  - Pass phrase to enter: "I serve the Black Earth"
+  - They know of the prophet, neither of the met **Marlos Urnrayle**
+  - Their main contact is **Hellenrae** in the **Sacred Stone Monastery**, and lesser: **Miraj Vizann** the `mud sorcerer` in the **Temple of the Black Earth**
+- Journals:
+  - Transaction records in **Wiggan**'s study: link to the earth cult, revealing connected to the aforementioned leader
+  - He writes about the conversion of **Bertram**
+  - If the characters failed to uncover the truth, **Watson** will later
+- The **Nettlebee** family is horrified and schocked
+  - Because of the supernatural barbarian attack
+  - Because of the truth
+  - **Jayne** takes over as matriarch of the clan
+  - They expand by inviting relatives, and hiring tough ranch hands
+
+### Treasure
+
+- **Nettlebee** wealth in an iron chest
+  - DC 10 Investigation to uncover in the basement, behind (in) the wall
+  - If the charcters promise to return the wealth of **Javor** he uncovers the chest to identify his own
+    - Once the characters return the treasures, **Javor** disappears
+  - The chest is locked (**Wiggan** has key)
+  - **Javor**'s ornate helmet (made of leather), rope and bone (combines bear skill, deer antlers and saber-toothed tiger's lower jaw - good condition 10gp)
+  - Oiled hide under the helmet wraps **Javor**'s ornate greatsword of ancient Besilmer make
+    - Grip is bound in worn leather that does not look original
+    - Bear claws are tied to the pommel
+    - 100gp
+  - **Javor** has 4 animal figurines size of human fist
+    - bear carves of lapis lazuli, a tiger carved of red obsidian and an elk carved of banded agate (150gp each), `figurine of wondrous power` (silver raven)
+- Family has: 775cp, 2512sp, 1553gp and 196pp
+  - LAlso 9 rose quartz crystal (50gp), old word `bag of holding`
