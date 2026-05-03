@@ -6,7 +6,7 @@
 - When earth cultists first started to explore the region, **Wiggan** took their money for information and occasional aid
   - The earth power they had intrigued him
   - The control over the earth could be valuable for a farmer
-- The cult contacts helped remove a couple of his rivals and assured him his wealth and influence could only increase as the cult ascended  to power
+- The cult contacts helped remove a couple of his rivals and assured him his wealth and influence could only increase as the cult ascended to power
 - Among the **Nettlebees**, **Wiggan**'s secret is know only to his son
   - **Bertram** now an initiate in the earth cult
 - The cult has begin its slow indoctrination of the whole **Nettlebee** clan starting with **Bertram**'s son **Watson**
@@ -23,7 +23,7 @@
   - They unearthed a nerby **Uthgardt barrow mound** and set it aflame
   - The plan was risky, they knew that the **Uthgardt** barbarians have no tolerance for those who desecrate their burial mounds
 - **Bertram** branded teh **Nettlebee** livestock with the fire symbol
-  - **Wiggam** claims  the mark to be that of a "fire witch"
+  - **Wiggam** claims the mark to be that of a "fire witch"
   - They keeping theirt relatives ignorant and scared
 - As the characters adventure in the **Sumber Hills**, rumor reaches them of a fire witch dwelling in an **Uthgardt** barrow and terrorizing the **Nettlebees**
   - Locals who visited the ranch confirm the scroched barrow mound and describe the symbol
@@ -48,23 +48,23 @@
 
 - Patriarch: **Wiggan Nettlebee** (chapter 7)
   - Miserly, cantankerous misanthrope and bitter widower
-- **Wiggan**'s only son: **Bertram** (*cult fanatic*)
+- **Wiggan**'s only son: **Bertram** (_cult fanatic_)
   - Full of bluster
-- **Betram**'s wife: **Jayne** (*commoner*)
+- **Betram**'s wife: **Jayne** (_commoner_)
   - No-nonsense lady who knows how to handle **Wiggan**, **Bertram** and other loudmouths
   - She is afraid, though and most concered for her children
-- **Bertram**'s heir and oldest child: **Watson** (*scout*)
+- **Bertram**'s heir and oldest child: **Watson** (_scout_)
   - 23 years old
   - Brave, hones and forthright
   - He takes more after his mother, than his father or grandfather
   - He is angry about the mistreatmen of the cattle
   - He knows about his father and grandfather new religion, but he thinks that is not important (unlikely to mention it)
   - He knows nothing about **Wiggan**'s plans
-- **Bertram**'s next son: **Darrow** (*commoner*)
+- **Bertram**'s next son: **Darrow** (_commoner_)
   - 22 years old
   - Good natured, he think about his future a lot (because of his grandfather)
   - He thinks, **Jayne** likes the adventurers too much
-- **Bertram**'s only daughter: **Elisa** (*commoner*)
+- **Bertram**'s only daughter: **Elisa** (_commoner_)
   - 19 years old
   - She is like her mother, and don't like her "old goat" grandfather
 - **Bertram**'s youngest child: **Ignatius**
@@ -82,7 +82,7 @@
     - Then he makes a speech about that he thinks the characters will care of this witch
 - **Jayne**, **Darrow**, **Elisa** and **Ignatius** remain at the ranch
 - **Watson** patrols the pasture, watching the livestock
-- When the characters question these innocent **Nettlebees about the events, theri terror and anger are genuine 
+- When the characters question these innocent \*\*Nettlebees about the events, theri terror and anger are genuine
   - They beg for the characters to investigates the barrow
 - Informations:
   - Two weeks ago: the barrow mound went up in a blaze
@@ -116,7 +116,7 @@ If they accompany the characters openly, **Wiggan** and **Bertram** cower at the
 
 - In the barrow: the structure made of monoliths set into the earth and capped with other fieldstones
 - The ceilings are corbeled fieldstone 10ft hight
-- Motes of *continual flame* light the passage and chambers
+- Motes of _continual flame_ light the passage and chambers
   - The flames produces no heat
   - **Wiggan**'s addition (**Uthgardt** detest magic)
   - DC 10 Intelligence (History) knows of the **Uthgardt** prejudice
@@ -141,13 +141,13 @@ If they accompany the characters openly, **Wiggan** and **Bertram** cower at the
 > A hőmérséklet tovább csökken, és sercegő hang kíséretében dér borítja be az egész kamrát. A falakon és a teremben kialszanak a lángok, és egy kék fénypont jelenik meg a ravatalon, amely halványan humanoid formát ölt. A sírboltban lévő csontok, valamint a jávorszarvas oltáron lévő agancsok megmozdulnak, majd együtt repülnek a fénybe. Egy villanás alatt egy masszív testalkatú, de nagyon sápadt emberi férfi áll előtted, sötét szakállal borított arccal, fejét agancsok koronázzák. Tejes szemei ​​rövid ideig kék lánggal égnek, miközben rád veti tekintetét.
 > Hangja mély, zengő és furcsán akcentusos. Azt mondja: „Harcosként a szellemek között pihenőhelyemről visszatérve azt találom, hogy a sírom elégett, csontjaim pedig meggyalázottak. Tudom, hogy a meggyalázók nincsenek közöttetek, de kik vagytok ti, és miért vagytok itt?”
 
-- The chieftain **Javor** was allowed to come here from the afterlife due to the overt and callous desecration of hist tomb (*revenant*)
+- The chieftain **Javor** was allowed to come here from the afterlife due to the overt and callous desecration of hist tomb (_revenant_)
 - **Javor** does not attack, he is willing to briefly listen to the characters, whom he know to be innocent of crimes against him
   - He does not know the nae of the desecraters, but his Gengefil Tracker train meas knows where to find **Wiggan** and **Bertram**
     - If asked the right question: tells the desecraters are just outside the tomb
-- Meanwhile **Wiggan** uses a scroll of *conjure elemental*
+- Meanwhile **Wiggan** uses a scroll of _conjure elemental_
   - It takes 1 minute to cast, he starts when the characters are deep in the burrow
-  - An *earth elemental* answer the summons and **Wiggan** commands it to collapse the entry tunnel and slay anyone inside the barrow
+  - An _earth elemental_ answer the summons and **Wiggan** commands it to collapse the entry tunnel and slay anyone inside the barrow
   - The elemental easily collapses the entry:
 
 > A talicska előcsarnokán beáradó napfény elhalványul, mintha árnyék vetült volna a bejáratra. Közvetlenül ezután kövek csikorgása hallatszik, majd föld- és kőzuhatag zúdul alá a csarnokban. Összeomlás!
@@ -164,14 +164,14 @@ If they accompany the characters openly, **Wiggan** and **Bertram** cower at the
 > „A lányom látomása igaz volt. Ez itt az ősi. Közülünk való!” – mondja.
 > Letérdel Javor elé, társai pedig követik a példáját.
 > „Azért jöttünk, hogy bosszút álljunk érted, ősi” – mondja. Javor komoran bólint. „Vérre jöttél. A szentségtörő ott lakik.”
-A talicska alatti völgyben lévő Nettlebee-ranchra mutat. Aztán abba az irányba kezd futni.
+> A talicska alatti völgyben lévő Nettlebee-ranchra mutat. Aztán abba az irányba kezd futni.
 
 - **Uthgardt** of the fierce Elk tribe
-  - The barbarian band is led by a female *berserker* **Fennor**
+  - The barbarian band is led by a female _berserker_ **Fennor**
     - Wears a chain shirt (AC 14), wields a greatsword (2d6+3 slashing), has multiattack
-  - Others: 10 *tribal warriors* and a male *berserker* named **Padraich**
+  - Others: 10 _tribal warriors_ and a male _berserker_ named **Padraich**
     - **Padraich** wields a maul (2d6+3 bludgeoning)
-  - Two *berserkers* ride *warhorses*
+  - Two _berserkers_ ride _warhorses_
 - Anyone who native here knows:
   - Uthgardt of the Elk tribe are dangerous raiders
   - Most local thinks they are savage bandits

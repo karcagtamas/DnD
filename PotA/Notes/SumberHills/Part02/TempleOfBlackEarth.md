@@ -360,7 +360,7 @@
 
 - If this is the first temple, **Marlos Urnrayle** is here
 - Visions have warned the medusa of the characters' arrival
-- A *shadow demon* that serves as **Marlos**'s messenger and lurks nearby
+- A _shadow demon_ that serves as **Marlos**'s messenger and lurks nearby
 - If he isn'y here, he has retreated dow nto the **Fane of the Eye** or the **Black Geode**
 - **Marlos**
   - Loves talking about himself, narcissist
@@ -368,42 +368,42 @@
   - He gloats how he discovered power to shake the foundations of the earth
   - Very soon, he is ready to pay back for every insult
   - In combat relies on petrifying gaze t o keep him safe from ranged attacks or spells
-    - Use *Ironfang* and his snaky hair in close combat
-    - When the battle turns agains him, **Marlos** flees to *B23* and uses the secret path in *B2*
+    - Use _Ironfang_ and his snaky hair in close combat
+    - When the battle turns agains him, **Marlos** flees to _B23_ and uses the secret path in _B2_
 - Statues: Petrified ramins of earth cultists who displeased **Urnrayle**
 
 ### B21 - Treasure
 
-- *Ironfag*
+- _Ironfag_
 
 ## B22 - Earth Prophet's Sanctum
 
 > Ez a pazarul berendezett terem arany és barna kárpitokkal, egy hatalmas, párnákkal borított ággyal, finom mahagóni bútorokkal és bíborvörös párnákkal, valamint gyönyörű műtárgyakkal, köztük szobrokkal, mellszobrokkal és urnákkal büszkélkedhet. Egy nyíllyuk egy kelet felé tátongó szakadék felé néz.
 
 - **Marlos** prepared the alcove with the arrow slit to function as means of escape
-- *Earth Passage* feature is succicient to pass through
+- _Earth Passage_ feature is succicient to pass through
 
 ### B22 - Treasure
 
 - 1100 sp, 130pp
 - Tapestry of a flying dragon (400gp), carved lyre (250gp) and silk robe (80gp)
-- Suit of *elven chain* folded inside a wooden chest
+- Suit of _elven chain_ folded inside a wooden chest
 
 ## B23 - Shrine of Bleeding Stone
 
 > Egy szabálytalan gödör tölti ki a nagy csarnok közepét. A gödör közepén egy csillogó fekete kőből készült obeliszk áll. Az obeliszk lábánál szétszórva hevernek kifehéredett csontok. Az obeliszk előtt egy kisebb kőoszlop egy pár bilincset tart, amelyek most egy furcsa, szürke bőrű és kopasz gnómot tartanak fogva.
 
-- *Black Earth priest* named **Erione**
+- _Black Earth priest_ named **Erione**
   - Shrine in a wreckage of ancient dwarven chapel
-  - 4 *cultists*
+  - 4 _cultists_
   - She intends to demonstrate that worship can brign even greater power
-  - She has coaxed a *black pudding* int the porous rock obelisk
-- **Rukhelmoth "Rukh" Flitterstone**, female *deep gnome*
+  - She has coaxed a _black pudding_ int the porous rock obelisk
+- **Rukhelmoth "Rukh" Flitterstone**, female _deep gnome_
   - **Erione** offer him as a sacrifice to the black pudding
   - When the pudding emerges, it seeps out of the obelisk like thick black blood and attack the gnome first
   - When the gnome has been consuimed, it will pay attention to the characters
   - She was an explorer who was captured when she tried to sneak into the **Fane of the Eye**
-    - She has seen *B17* and *B21* but does explored the temple
+    - She has seen _B17_ and _B21_ but does explored the temple
   - Informations:
     - The leader of the earth cult is a medusa named **Marlow Urnrayle**
       - He lairs in a cavern to the northeast
@@ -414,12 +414,12 @@
 
 > Négy hatalmas, négyzet alakú oszlop tartja ennek az ősi csarnoknak a mennyezetét. Folyosók vezetnek északnyugatra és délkeletre. A csarnok közepén egy három méter magas, szigorú törpe harcos szobra áll, akinek kezek helyett tüskés golyók vannak.
 
-- The status is a *stone golem* reacivated by **Miraj Vizann** (*B8*)
+- The status is a _stone golem_ reacivated by **Miraj Vizann** (_B8_)
   - It has 102HP
   - No multiattack
   - It responds only to attacks and creatures entering the gall from the west
     - If the intruders shows hand sign or `I serve the Black Earth` phrase, the golem allows them
-- West Tunner leads to *E5* in *Temple of the Enternal Flame*
+- West Tunner leads to _E5_ in _Temple of the Enternal Flame_
 
 ## Conclusion
 
