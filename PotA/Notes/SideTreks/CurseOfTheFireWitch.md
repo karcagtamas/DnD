@@ -247,4 +247,16 @@ A talicska alatti völgyben lévő Nettlebee-ranchra mutat. Aztán abba az irán
   - **Javor** has 4 animal figurines size of human fist
     - bear carves of lapis lazuli, a tiger carved of red obsidian and an elk carved of banded agate (150gp each), `figurine of wondrous power` (silver raven)
 - Family has: 775cp, 2512sp, 1553gp and 196pp
-  - LAlso 9 rose quartz crystal (50gp), old word `bag of holding`
+  - Also 9 rose quartz crystal (50gp), old worn `bag of holding`
+- Restoring the Barrow:
+  - To restore the barrow, need to leave **Javor**'s items there
+  - If the characters place the sword, raven and helmet with the bones and palce each figurine on its matching alter, each charfm can be used twice before vanishing
+    - Spiritual blessing that mimics a potion or spell (of your choice)
+    - A character (choice by DM) finds the raven figurine among his/her belongings (sensing **Javor**'s favorable opinion)
+  - If the characters fails: **Uthgardt** knows about it, maybe **Javor** tries to remind them
+- **Watson**'s visit
+  - If the **Neetlebees** feel they owe the characters, after a month or so, **Watson** meet them in a nearby town
+    - He gives an iron band of a fire symbol (found on the fiedls)
+    - He shares any information about **Wiggan** or **Bertram** and a earth cult if they dont know
+    - He gives the `bag of holding` (each **Neetlebe** helped restorate and decorate it)
+      - It contains some homemade supplies and a letter from **Jayne** (thanks)
