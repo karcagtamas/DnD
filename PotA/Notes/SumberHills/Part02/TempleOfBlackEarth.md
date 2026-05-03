@@ -245,24 +245,187 @@
 
 ## B14 - Torture Chamber
 
+> Egy fából készült kínzóállvány áll a szoba közepén. Bilincsek lógnak a falakról, ördögi horgok, pengék és bilincsek pedig a hátsó falon. A szoba nyugati beugrójában négy szűkös vasketrec áll, melyekben sovány, piszkos emberek ülnek üres tekintettel. A szoba keleti beugrójában két dupla priccs és egy vaskályha áll.
+
+- To torture defeated enemies, cult servants who failed or innocent victims
+- Domain of a _stonemelder_ names **Heldorm** and 3 _cultists_
+  - Unbalanced, working (arguing with himself)
+  - He assumes that the player brought somebody to him (new victim): `Who is to be questioned?`
+- Prisoners:
+  - **Orna**, female human _Black Earth guard_
+    - Dared to strike a _Black Earth priest_ a few days ago
+    - Greey and brutal, enraged against the cult
+  - **Droth**, male human mercenary _thug_
+    - In service of the **Howling Hatred**
+  - **Wulgreda**, hapless female dwarf _commoner_
+    - Was captured while prospecting in the hills near the **Sacred Stone Monastery**
+    - She warns the party that **Orna** is cultist
+  - **Gervor**, male half-elf _noble_
+    - Only left from the ambushed company in the **Sumber Hills**
+    - Badly injured (1 HP)
+  - **Wulgreda** and **Gervor** happy to be free, but they ask the party to escort to safety
+  - **Orna** is willing to give information for her freedom or to lead the characters to **Marlos Urnrayle** (_B21_)
+
+### B14 - Treasure
+
+- **Hedorm** keeps the best things in a wooden chest (key in his pocket)
+  - 230sp, pouch of six azurites (10gp each)
+  - **Orna**'s plate armor
+  - **Gervor**'s studded leather armor and lognsword
+  - `wand of magic missiles` (fully charged)
+
 ## B15 - Stone Forge
+
+- Ringing of hammers before they enter
+
+> Aforge a szoba közepén áll, tűzifahalmokkal körülvéve. Két nagy üllő áll a közelben, kalapácsok, fogók és egyéb kovácseszközök pedig szétszórva hevernek a munkapadokon a kamra falai mentén. Nyugatra és délre is vannak ajtók, de a szoba keleti vége egy sötét szakadékra nyílik.
+
+- They turned the former barrack to forge to create elemental devices
+- The master is **Xharva Deem** a _dao_ (2 _duergar_ assist her)
+- **Xharva**
+  - Has no interest in fighting (the bargain with **Marlos Urnrayle** is to make weapons)
+    - `**Urnrayle** has not paid me to fight puny mortals. He can look after his own slaves.`
+  - She does not defent his _duergar_ assistants
+  - She attacks back with fury if somebody attacks them
+
+### B15 - Treasure
+
+- 2 iron coffers
+  - 600gp, 2 gold bracelets (100gp each), 1 gold necklace with ruby pendant (750gp)
+  - a bag with 12 malachites (25gp each)
+- one set of `claw of the umber hulk` (on a the workbenches)
 
 ## B16 - Armory
 
+> Egyetlen vastag oszlop tartja a kivilágítatlan terem alacsony, dongaboltozatos mennyezetét. Rozsdás fémdarabok – mellvértek, pajzsok, balták és kardok maradványai – lógnak a falakról régi cövekeken, vagy hevernek a padlón, ahová régen estek. A szobában szétszórva hevernek újabb keletű rendetlenségek, piszkos szőrmék és szilánkosra tört fa bútorok. A szoba északi oldalán egy füstös tűzrakóhely mellett törött székek és asztallábak halma hever.
+> Ajtók keletre és délnyugatra vezetnek.
+
+- Serves as guard post for the cult (can keep an eye on the fire cult)
+- 5 _ogres_
+  - No pass without earth cult hand sign
+  - They don't prevent leavers (they challange who does not look like cultists)
+- Southwest tunnel: Corridor connects to _E30_ in **Temple of Eternal Flame**
+- If the ogres are defeated, they will be replaced by _earth elemental myrmidon_ after 1d4 days
+
 ## B17 - Chasm Staircase
+
+- Characters from east:
+
+> Egy hatalmas szakadék nyílik előtted, mennyezete tíz méter magas. A szakadék közepén egy négyzet alakú, fekete sziklaoszlop áll. Egy kőhíd vezet egy lépcsőhöz, amely körülveszi ezt az oszlopot. A szakadék, a lépcső és az oszlop a sötétségbe ereszkedik.
+
+- When alarm is triggered:
+
+> Amikor eléred a híd közepét, enyhe remegést érzel a lábad alatt. Aztán egy hangos, mély hangú, egy óriás nyögésére emlékeztető hang tölti be a levegőt, visszhangozva a szakadékban.
+
+- The alarm alerts cultists in _B18_ who awaken
+- The staircase descends to _F11_ (**Fane of the Eye**)
 
 ## B18 - Barracks
 
+> Ez a szoba egy tiszta, szépen szervezett hálóhelyiségnek tűnik. A gyér bútorok közé tartozik hat dupla emeletes ágy a déli és keleti falak mentén, valamint egy faasztal több székkel a szoba északi felében. A szoba közepén egy vaskályha áll egy rendezett tűzifahalommal. A délnyugati sarokban egy nyíl alakú nyílás egy sötét átjáróra néz. Ajtók vezetnek keletre és nyugatra.
+
+- 12 _Black Earth_ cultists are quatered here
+  - 4 _Black Earth guards_, a _Black Earth priest_
+  - 2 guards are sleeping and unarmored (AC 10, and don't have time when alarm is raised)
+- 2 light crossbows near the arrow slit (+3 to hit, 1d8 piercing)
+
 ## B19 - Statue of Ogremoch
+
+> Három folyosó találkozik ebben a szobában. A nyugati fal közepén egy fülkében egy három méter magas szobor áll, amely egy földből, sziklákból és éles kristályokból álló, nyers humanoid alakot ábrázol. Tompa feje fölé egy hatalmas, sziklás ököl emelkedik. Egy régebbi szobor törmelékei hevernek a talapzat körül, amelyen ez az alak áll.
+
+- The statue depicts Ogremoch, the Prince of Evil Earth. **Marlow Urnrayle** sculpted it
 
 ## B20 - Mess Hall
 
+> A szoba közepén három bakasztal áll, a falak mentén pedig élelmiszerrel teli ládák sorakoznak szépen egymásra. Délkeletre egy nyitott ajtó vezet egy kis konyhába, ahol további élelmiszerek és egy nagy tűzhely található. Egy rongyos, tollas szürke köpeny van az északi fal közepére szegezve. Ajtók vezetnek keletre, nyugatra és délre.
+
+- The cultists typically eath alone or in pairs
+- 2 _Black Earth guard_ currently eat at the middle table
+- 3 _cultists_ work in the kitchen
+- The feathered cloak is a trophy from the _Howlin Hatred_ cultists (**Droth** in _B14_)
+
+| d20  | Encounter                                                |
+| ---- | -------------------------------------------------------- |
+| 1-2  | 1d3 + 1 _duergar_ (_B5_)                                 |
+| 3    | 1d4 _ogres_ (_B16_)                                      |
+| 4    | 1 _stonemelder_, 2 _Black Earth fuards_ (_B6_)           |
+| 5    | 1 _burrowshark_, 1d4 _cultists_ (_B7_)                   |
+| 6    | 1 _Black Earth priest_, 1d4 _Black Earth guards_ (_B18_) |
+| 7    | **Miraj Vizann** (_B8_)                                  |
+| 8-20 | None                                                     |
+
 ## B21 - Screaming Statues
+
+> Ebben a barlangban mindenhol folyékonykő-, sztalagmit- és cseppkőképződmények találhatók. Az északi falban egy kőépület található, délen pedig egy kőajtó áll egy kőfalban. A barlang keleti falában egy természetes rés egy mély szakadékot tár fel. Számos élethű szobor található a sziklaalakzatok között. A szobrok lényeket ábrázolnak olyan pózokban, amelyek sokkot, félelmet vagy gyötrelmet sugallnak.
+
+- If this is the first temple, **Marlos Urnrayle** is here
+- Visions have warned the medusa of the characters' arrival
+- A *shadow demon* that serves as **Marlos**'s messenger and lurks nearby
+- If he isn'y here, he has retreated dow nto the **Fane of the Eye** or the **Black Geode**
+- **Marlos**
+  - Loves talking about himself, narcissist
+  - Enjoys fine thinhs and showing off
+  - He gloats how he discovered power to shake the foundations of the earth
+  - Very soon, he is ready to pay back for every insult
+  - In combat relies on petrifying gaze t o keep him safe from ranged attacks or spells
+    - Use *Ironfang* and his snaky hair in close combat
+    - When the battle turns agains him, **Marlos** flees to *B23* and uses the secret path in *B2*
+- Statues: Petrified ramins of earth cultists who displeased **Urnrayle**
+
+### B21 - Treasure
+
+- *Ironfag*
 
 ## B22 - Earth Prophet's Sanctum
 
+> Ez a pazarul berendezett terem arany és barna kárpitokkal, egy hatalmas, párnákkal borított ággyal, finom mahagóni bútorokkal és bíborvörös párnákkal, valamint gyönyörű műtárgyakkal, köztük szobrokkal, mellszobrokkal és urnákkal büszkélkedhet. Egy nyíllyuk egy kelet felé tátongó szakadék felé néz.
+
+- **Marlos** prepared the alcove with the arrow slit to function as means of escape
+- *Earth Passage* feature is succicient to pass through
+
+### B22 - Treasure
+
+- 1100 sp, 130pp
+- Tapestry of a flying dragon (400gp), carved lyre (250gp) and silk robe (80gp)
+- Suit of *elven chain* folded inside a wooden chest
+
 ## B23 - Shrine of Bleeding Stone
+
+> Egy szabálytalan gödör tölti ki a nagy csarnok közepét. A gödör közepén egy csillogó fekete kőből készült obeliszk áll. Az obeliszk lábánál szétszórva hevernek kifehéredett csontok. Az obeliszk előtt egy kisebb kőoszlop egy pár bilincset tart, amelyek most egy furcsa, szürke bőrű és kopasz gnómot tartanak fogva.
+
+- *Black Earth priest* named **Erione**
+  - Shrine in a wreckage of ancient dwarven chapel
+  - 4 *cultists*
+  - She intends to demonstrate that worship can brign even greater power
+  - She has coaxed a *black pudding* int the porous rock obelisk
+- **Rukhelmoth "Rukh" Flitterstone**, female *deep gnome*
+  - **Erione** offer him as a sacrifice to the black pudding
+  - When the pudding emerges, it seeps out of the obelisk like thick black blood and attack the gnome first
+  - When the gnome has been consuimed, it will pay attention to the characters
+  - She was an explorer who was captured when she tried to sneak into the **Fane of the Eye**
+    - She has seen *B17* and *B21* but does explored the temple
+  - Informations:
+    - The leader of the earth cult is a medusa named **Marlow Urnrayle**
+      - He lairs in a cavern to the northeast
+    - A starcase to the south leads down to an ancient drow temple that has been overrun by elemental cultists
+    - The cultists have created elemental nodes in the dungeons below
 
 ## B24 - Sentinel's Hall
 
+> Négy hatalmas, négyzet alakú oszlop tartja ennek az ősi csarnoknak a mennyezetét. Folyosók vezetnek északnyugatra és délkeletre. A csarnok közepén egy három méter magas, szigorú törpe harcos szobra áll, akinek kezek helyett tüskés golyók vannak.
+
+- The status is a *stone golem* reacivated by **Miraj Vizann** (*B8*)
+  - It has 102HP
+  - No multiattack
+  - It responds only to attacks and creatures entering the gall from the west
+    - If the intruders shows hand sign or `I serve the Black Earth` phrase, the golem allows them
+- West Tunner leads to *E5* in *Temple of the Enternal Flame*
+
 ## Conclusion
+
+- If the characters defeat **Marlos** and **Miraj**, or both flee the dungeon, **Yarsha** tries here best to hold the cult together
+- If **Yarsha** is defated too, the cult is broken
+- Broken cult
+  - The remaining cultists retreat to the **Fane of the Eye** or leave the area altogether
+  - **Xharva** collets her treasures and leaves
+  - **Broog-Norb** remains
