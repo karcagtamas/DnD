@@ -141,6 +141,7 @@
   - [2026-03-26](./PotA/Sessions/2026/2026-03-26.md) - Guess, I'll die
   - [2026-04-07](./PotA/Sessions/2026/2026-04-07.md) - Blubb, blubb
   - [2026-04-21](./PotA/Sessions/2026/2026-04-21.md) - I could not sleep
+  - [2026-04-21](./PotA/Sessions/2026/2026-05-06.md) - Ohh noo, your pants
 
 ### PotA - Notes
 

@@ -169,14 +169,14 @@
 - The seas eager to reclaim the part of themselves what are in the living creaters (blood, body)
 - The cultists drown the non-believers to return the parts to the sea
 - They appeals to those who live in or near bodies of water, or who appreciate sbtetly and inevitability
-- Wicked seas creatures like awuatic ghouls and merrows are friendly
+- Wicked seas creatures like aquatic ghouls and merrows are friendly
 - Even non-sentient predators like sharks or octopuses see the cultists as allies
 
 #### The sign of the Crushing Wave
 
 - They use simple hand sign to identify others
 - Crossing the forefingers and overlapping the thumbs to create and X shape linked by a line at the bottom
-- Stands for water's eternal surge nad retreat, cycle of unending change
+- Stands for water's eternal surge and retreat, cycle of unending change
 
 #### Crushing Wave - Tactics and Philosophy
 
