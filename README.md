@@ -142,6 +142,7 @@
   - [2026-04-07](./PotA/Sessions/2026/2026-04-07.md) - Blubb, blubb
   - [2026-04-21](./PotA/Sessions/2026/2026-04-21.md) - I could not sleep
   - [2026-05-06](./PotA/Sessions/2026/2026-05-06.md) - Ohh noo, your pants
+  - [2026-05-17](./PotA/Sessions/2026/2026-05-17.md) - Nails, fingers, hands
 
 ### PotA - Notes
 

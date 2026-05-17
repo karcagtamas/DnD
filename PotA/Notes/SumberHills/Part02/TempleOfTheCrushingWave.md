@@ -125,7 +125,7 @@
 
 ## C6 - Victory Bridge
 
-- The stairs on each side of the canal climb 10ft from the quays, so t he bridge is 15ft above the water level
+- The stairs on each side of the canal climb 10ft from the quays, so the bridge is 15ft above the water level
 
 > Egy kőhíd ível át a csatornán egyetlen elegáns ívben. Mindkét oldalon lépcsők vezetnek fel a hídra. A híd alacsony kőkorláttal rendelkezik, viharvert oldalait pedig törp csaták képei díszítik. A híd csúcsán egyetlen fáklya ég.
 
@@ -218,7 +218,7 @@
   - 5 more lurk around *C25*
   - They are loyal to **Thuluna Maah** at *C14*
 - If the players are enter disguised, they outraged and attacks thime like the enemies of the cult
-- If the lizardfolk lose at least tow of thei number in a fight here, **Tornscale** send one of the remaining warriors to warn **Thuluna** and summon help
+- If the lizardfolk lose at least tow of their number in a fight here, **Tornscale** send one of the remaining warriors to warn **Thuluna** and summon help
 
 ## C14 - Hag Lair
 
