@@ -143,6 +143,7 @@
   - [2026-04-21](./PotA/Sessions/2026/2026-04-21.md) - I could not sleep
   - [2026-05-06](./PotA/Sessions/2026/2026-05-06.md) - Ohh noo, your pants
   - [2026-05-17](./PotA/Sessions/2026/2026-05-17.md) - Nails, fingers, hands
+  - [2026-06-15](./PotA/Sessions/2026/2026-06-15.md) - The purpose if life
 
 ### PotA - Notes
 
