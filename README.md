@@ -272,6 +272,7 @@
 - [Cloack of the Niffin](./Brassaris/Items/CloackOfTheNiffin.md)
 - [Staff of the Magi](./Brassaris/Items/StaffOfTheMagi.md)
 - [Robe of Archmagi](./Brassaris/Items/RobeOfArchmagi.md)
+- [Eldritch Staff](./Brassaris/Items/EldritchStaff.md)
 
 ### Brassaris - Notes
 
