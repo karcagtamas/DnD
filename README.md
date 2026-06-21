@@ -270,6 +270,7 @@
 - [SkullAmulett](./Brassaris/Items/SkullAmulett.md)
 - [Zephyr Horseshouses](./Brassaris/Items/ZephyrHorseshouses.md)
 - [Cloack of the Niffin](./Brassaris/Items/CloackOfTheNiffin.md)
+- [Staff of the Magi](./Brassaris/Items/StaffOfTheMagi.md)
 
 ### Brassaris - Notes
 
