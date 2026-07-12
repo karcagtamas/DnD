@@ -145,6 +145,7 @@
   - [2026-05-17](./PotA/Sessions/2026/2026-05-17.md) - Nails, fingers, hands
   - [2026-06-15](./PotA/Sessions/2026/2026-06-15.md) - The purpose of life
   - [2026-06-29](./PotA/Sessions/2026/2026-06-29.md) - HE IS IMMORTAL
+  - [2026-07-12](./PotA/Sessions/2026/2026-07-12.md) - Stupid trolls
 
 ### PotA - Notes
 
