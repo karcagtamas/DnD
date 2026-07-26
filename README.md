@@ -146,6 +146,7 @@
   - [2026-06-15](./PotA/Sessions/2026/2026-06-15.md) - The purpose of life
   - [2026-06-29](./PotA/Sessions/2026/2026-06-29.md) - HE IS IMMORTAL
   - [2026-07-12](./PotA/Sessions/2026/2026-07-12.md) - Stupid trolls
+  - [2026-07-26](./PotA/Sessions/2026/2026-07-26.md) - Birthday session
 
 ### PotA - Notes
 

@@ -260,7 +260,7 @@
 
 - Most of the vats are empty, but 3 currently hold *water weirds* drained from the three empty *weird tanks*
 - The vats holding the *water weirds* cold and clammy
-- A weird can only attack, if someones oipen the hatch
+- A weird can only attack, if someones open the hatch
 - Any enemy tries to alerts the monsters in *C17*
 
 ## C17 - Morbeoth's Workshop
@@ -271,7 +271,7 @@
 > Ajtók délre és keletre vezetnek, egy másik ajtó pedig keletre a hálószobából.
 
 - A *one-eyed shiver* named **Morbeoth** makes his home in these rooms
-- He commands teh western portion of the temple, and defends it against the **Howling Hatred** cultists
+- He commands the western portion of the temple, and defends it against the **Howling Hatred** cultists
 - He carries for battle: *potion of gaseous form* and a *potion of healing*
 - 6 *Crushing Wave reavers* serve as his personal guard
 - He expermineted with devices that rely on elemental power
