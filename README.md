@@ -147,6 +147,7 @@
   - [2026-06-29](./PotA/Sessions/2026/2026-06-29.md) - HE IS IMMORTAL
   - [2026-07-12](./PotA/Sessions/2026/2026-07-12.md) - Stupid trolls
   - [2026-07-26](./PotA/Sessions/2026/2026-07-26.md) - Birthday session
+  - [2026-09-14](./PotA/Sessions/2026/2026-09-14.md) - Come back and die
 
 ### PotA - Notes
 
