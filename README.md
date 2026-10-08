@@ -148,6 +148,7 @@
   - [2026-07-12](./PotA/Sessions/2026/2026-07-12.md) - Stupid trolls
   - [2026-07-26](./PotA/Sessions/2026/2026-07-26.md) - Birthday session
   - [2026-09-14](./PotA/Sessions/2026/2026-09-14.md) - Come back and die
+  - [2026-10-08](./PotA/Sessions/2026/2026-10-08.md) - Maybe we should go back
 
 ### PotA - Notes
 
