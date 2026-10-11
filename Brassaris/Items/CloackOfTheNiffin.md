@@ -16,3 +16,9 @@ This cloak is the culmination of high level magic users losing grip on an unimag
 
 - When the wearer drops unconscious the Cloak of the Niffin doesn’t get control over them.
 - If Flexible Casting is used and the wearer reduces a creature to 0 HP in the turn when it is used, the wearer gains Sorcery Points equal to the felled creature’s Challenge Rating (CR). If no more Sorcery Points can be gained by this effect as a Free Action the would be gained Sorcery Points can be converted to a spell slot immediately instead.
+
+## Exalted State
+
+- The wearer gains +3 to their Spell Save DC while wearing this cloak
+- The wearer’s Sorcery Points are now inexhaustible
+- The wearer gains the following feature: Legendary Resistance (2/Long Rest). (If the wearer fails a saving throw, the wearer can choose to succeed instead.)
