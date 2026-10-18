@@ -149,6 +149,7 @@
   - [2026-07-26](./PotA/Sessions/2026/2026-07-26.md) - Birthday session
   - [2026-09-14](./PotA/Sessions/2026/2026-09-14.md) - Come back and die
   - [2026-10-08](./PotA/Sessions/2026/2026-10-08.md) - Maybe we should go back
+  - [2026-10-18](./PotA/Sessions/2026/2026-10-18.md) - Dead parents
 
 ### PotA - Notes
 
