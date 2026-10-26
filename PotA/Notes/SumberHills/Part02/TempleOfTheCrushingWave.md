@@ -421,7 +421,7 @@
   - In that case a *hezrou* demon is on guard with the *lizardfolks*
 - **Gar Shatterkeel**
   - The prophet is sulled and suspicious in the conversation
-  - He believes that the msot reliable followers are likely to fail him through weakness or treachery
+  - He believes that the most reliable followers are likely to fail him through weakness or treachery
   - He knows the characters aren't members and they are not here to join
   - Whoy are you? What do you want? Why shouldn't I drown you?
   - He hears out those who claim to bring news or gifts
