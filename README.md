@@ -151,6 +151,7 @@
   - [2026-09-20](./PotA/Sessions/2026/2026-09-20.md) - Do not give up
   - [2026-10-08](./PotA/Sessions/2026/2026-10-08.md) - Maybe we should go back
   - [2026-10-18](./PotA/Sessions/2026/2026-10-18.md) - Dead parents
+  - [2026-11-02](./PotA/Sessions/2026/2026-11-02.md) - Doppy the cleptomaniac
 
 ### PotA - Notes
 
