@@ -294,3 +294,10 @@
 
 - [Claw Society](./Brassaris/Notes/ClawSociety.md)
 - [Werecreatures](./Brassaris/Notes/Werecreatures.md)
+
+## Mistborn Cosmere
+
+### Mistborn Cosmere - Sessions
+
+- 2026
+  - [2026-11-08](./MB/Sessions/2026/2026-11-08.md)
