@@ -1,24 +1,126 @@
-\documentclass{article}
+\documentclass[11pt,a4paper,twoside]{article}
 
-\usepackage[english]{babel}
-\usepackage[a4paper,top=2cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}
+% Fonts and typography
+\usepackage[T1]{fontenc}
+\usepackage{tgpagella}
+\usepackage{microtype}
+
+% Page layout
+\usepackage[a4paper,margin=25mm]{geometry}
+\usepackage{parskip}
+\usepackage{setspace}
+
+% Colours and graphics
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{eso-pic}
+
+% Decorative typography
+\usepackage{lettrine}
+\usepackage{calligra}
+\usepackage{titlesec}
+
+% Headers and footers
+\usepackage{fancyhdr}
+
+% Hyperlinks
+\usepackage[hidelinks]{hyperref}
+
+\usepackage{graphicx}
 \usepackage{float}
 
-% Useful packages
-\usepackage{amsmath}
-\usepackage{graphicx}
-\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+\usepackage{xcolor}
+\usepackage{tikz}
 
+\definecolor{parchment}{HTML}{F5EBD5}
+\definecolor{ink}{HTML}{30271F}
+\definecolor{antiquegold}{HTML}{9B783E}
+\definecolor{darkred}{HTML}{702D28}
+
+\pagecolor{parchment}
+\color{ink}
 
 \title{Kalea Corven}
 \author{Karcag Tamas}
 
-\begin{document}
-\maketitle
+\titleformat{\section}
+    {\Large\scshape\color{darkred}}
+    {\thesection}
+    {1em}
+    {}
+    [\vspace{0.3em}{\color{antiquegold}\titlerule}]
 
-\begin{abstract}
-    Your abstract.
-\end{abstract}
+\titleformat{\subsection}
+    {\large\scshape\color{darkred}}
+    {\thesubsection}
+    {1em}
+    {}
+
+\begin{document}
+
+\pagestyle{fancy}
+\fancyhf{}
+
+\fancyhead[L]{\small\itshape\textcolor{darkred}{Kalea Corven}}
+\fancyhead[R]{\small\scshape\textcolor{antiquegold}{Character Dossier}}
+
+\fancyfoot[C]{\small\textcolor{darkred}{\thepage}}
+
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{%
+    {\color{antiquegold}\hrule width\headwidth height\headrulewidth}
+}
+
+\setlength{\headheight}{14pt}
+
+\begin{titlepage}
+    \thispagestyle{empty}
+
+    \AddToShipoutPictureBG*{%
+        \AtPageLowerLeft{%
+            \color{parchment}\rule{\paperwidth}{\paperheight}%
+        }%
+    }
+
+    \begin{tikzpicture}[remember picture, overlay]
+        \draw[antiquegold, line width=1.2pt]
+            ([xshift=1.2cm,yshift=-1.2cm]current page.north west)
+            rectangle
+            ([xshift=-1.2cm,yshift=1.2cm]current page.south east);
+
+        \draw[antiquegold, line width=0.4pt]
+            ([xshift=1.35cm,yshift=-1.35cm]current page.north west)
+            rectangle
+            ([xshift=-1.35cm,yshift=1.35cm]current page.south east);
+    \end{tikzpicture}
+
+    \centering
+    \vspace*{2.5cm}
+
+    {\color{antiquegold}\rule{0.65\textwidth}{1pt}}\\[1.2cm]
+
+    {\fontsize{38}{44}\selectfont\textcolor{darkred}
+        {\scshape Kalea Corven}}\\[0.5cm]
+
+    {\color{antiquegold}\rule{0.4\textwidth}{0.6pt}}\\[1.2cm]
+
+    \begin{minipage}{0.7\textwidth}
+        \centering
+        \large
+        Character background
+    \end{minipage}
+
+    \vfill
+
+    {\small\scshape Character Dossier}\\[0.3cm]
+    {\small\textcolor{antiquegold}{Mistborn Roleplaying Game}}
+
+    \vspace*{1.5cm}
+
+\end{titlepage}
+
+\ClearShipoutPictureBG
+
 
 \section{Appearance}
 
@@ -34,6 +136,8 @@ She wears dark travelling clothes reinforced with practical leather armour, acco
 
 Her clothes are chosen for practicality, protection, and anonymity. She avoids luxurious accessories and anything that might reveal her noble origins. Nevertheless, certain gestures, habits, and mannerisms occasionally betray the education and upbringing she received.
 
+\newpage
+
 \section{Behaviour}
 
 Kalea is intelligent, curious, and analytical. She has a strong desire to learn and continuously seeks opportunities to expand her knowledge and improve her abilities. She prefers to observe and understand a situation before taking action, often considering several possible outcomes before committing to a decision.
@@ -47,6 +151,8 @@ Although she has ambitious ideals, Kalea understands that changing society canno
 She is cautious about revealing personal information and does not easily trust strangers. Her current circumstances require discretion, and she knows that a careless word or an unexpected encounter could expose her identity.
 
 Despite her careful nature, she can sometimes be stubborn when confronted with injustice. Her convictions may lead her to take risks even when remaining uninvolved would be the safer choice.
+
+\newpage
 
 \section{Background}
 

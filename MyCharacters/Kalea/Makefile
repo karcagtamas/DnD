@@ -1,10 +1,13 @@
 PAPER=Kalea
 
 pdf:
-	pdflatex $(PAPER)
+	pdflatex -interaction=nonstopmode -halt-on-error $(PAPER)
+	pdflatex -interaction=nonstopmode -halt-on-error $(PAPER)
 
 clean:
-	-del texput.log
 	-del $(PAPER).aux
 	-del $(PAPER).log
 	-del $(PAPER).out
+	-del $(PAPER).toc
+	-del $(PAPER).fls
+	-del $(PAPER).fdb_latexmk
