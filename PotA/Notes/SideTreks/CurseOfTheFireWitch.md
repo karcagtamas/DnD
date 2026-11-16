@@ -82,17 +82,17 @@
     - Then he makes a speech about that he thinks the characters will care of this witch
 - **Jayne**, **Darrow**, **Elisa** and **Ignatius** remain at the ranch
 - **Watson** patrols the pasture, watching the livestock
-- When the characters question these innocent \*\*Nettlebees about the events, theri terror and anger are genuine
+- When the characters question these innocent Nettlebees about the events, theri terror and anger are genuine
   - They beg for the characters to investigates the barrow
 - Informations:
   - Two weeks ago: the barrow mound went up in a blaze
   - Few days later: **Watson** noticed the brand on the cattle
-  - Nettlebees tooke turns tguarding the livestock by night
+  - Nettlebees tooke turns to guarding the livestock by night
     - Slowly but surely, the brands continued to appear
   - **Watson** investigates the barrow and found it open
     - The massive fieldstone that once stood in the archway had been sundered and the halls were limned in flame
     - **Watson** heard terrigying whispers from the darkness
-    - **Wiggon** spoke of legends of fire witched that once were said to roam these hills, they fear a fire witch has returned
+    - **Wiggan** spoke of legends of fire witched that once were said to roam these hills, they fear a fire witch has returned
   - They feel powerless against the fire witch and fear she might soon burn down their ranch
     - **Watson** and **Jayne** are desperate about avoiding that outcome
 
@@ -115,7 +115,7 @@ If they accompany the characters openly, **Wiggan** and **Bertram** cower at the
 > Magas monolitok szegélyezik a földfolyosót, amely a sírdomb bejáratát a mélyben található sírkamrával köti össze. Lángfoszlányok világítják meg a folyosót és a mögötte lévő kamrát. A levegő hideg és nehéz a hamu szagától.
 
 - In the barrow: the structure made of monoliths set into the earth and capped with other fieldstones
-- The ceilings are corbeled fieldstone 10ft hight
+- The ceilings are corbeled fieldstone 10ft height
 - Motes of _continual flame_ light the passage and chambers
   - The flames produces no heat
   - **Wiggan**'s addition (**Uthgardt** detest magic)
@@ -198,7 +198,7 @@ If they accompany the characters openly, **Wiggan** and **Bertram** cower at the
     - If the characters attack the Uthgardt on the ranch: **Javor** focuses on **Wiggam** and **Bertram**
     - If the tribe suffer huge losses, they retreat and steal sheeps and ponies
   - **Nettlebees** in hiding
-    - When the barbarians reach the ranch, **Javor** bursts into the cellar (the people saw the bandits on the wall, and retreated ther)
+    - When the barbarians reach the ranch, **Javor** bursts into the cellar (the people saw the bandits on the wall, and retreated there)
     - The chief points to **Wiggam** and **Bertram** (guilty ones)
     - **Wiggan** tries bargain with the players for his and **Bertram**'s life
       - Promising everything, secrets to them if they are helping
@@ -250,7 +250,7 @@ If they accompany the characters openly, **Wiggan** and **Bertram** cower at the
   - Also 9 rose quartz crystal (50gp), old worn `bag of holding`
 - Restoring the Barrow:
   - To restore the barrow, need to leave **Javor**'s items there
-  - If the characters place the sword, raven and helmet with the bones and palce each figurine on its matching alter, each charfm can be used twice before vanishing
+  - If the characters place the sword, raven and helmet with the bones and palce each figurine on its matching alter, each charm can be used twice before vanishing
     - Spiritual blessing that mimics a potion or spell (of your choice)
     - A character (choice by DM) finds the raven figurine among his/her belongings (sensing **Javor**'s favorable opinion)
   - If the characters fails: **Uthgardt** knows about it, maybe **Javor** tries to remind them

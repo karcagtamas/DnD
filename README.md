@@ -152,6 +152,8 @@
   - [2026-10-08](./PotA/Sessions/2026/2026-10-08.md) - Maybe we should go back
   - [2026-10-18](./PotA/Sessions/2026/2026-10-18.md) - Dead parents
   - [2026-11-02](./PotA/Sessions/2026/2026-11-02.md) - Doppy the cleptomaniac
+  - [2026-11-16](./PotA/Sessions/2026/2026-11-16.md) - What is the plan?
+  - [2026-12-03](./PotA/Sessions/2026/2026-12-03.md) - WIP
 
 ### PotA - Notes
 
